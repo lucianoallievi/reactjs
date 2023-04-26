@@ -1,13 +1,11 @@
 import "./ItemListContainer.css";
 
-export const ItemListContainer = ({ item1, item2, item3 }) => {
+export const ItemListContainer = ({ saludo }) => {
   return (
     <div className="list__container">
-      <h2>Productos</h2>
+      <h2>LOPEZ S.A.</h2>
       <hr />
-      <p>{item1}</p>
-      <p>{item2}</p>
-      <p>{item3}</p>
+      <p>{saludo}</p>
     </div>
   );
 };

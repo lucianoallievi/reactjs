@@ -7,11 +7,7 @@ function App() {
   return (
     <div>
       <Navbar />
-      <ItemListContainer
-        item1="Artículos Electrónicos"
-        item2="Accesrios"
-        item3="Insumos"
-      />
+      <ItemListContainer saludo="Bienvenido a Lopez S.A." />
       {/* <button className="btn btn-secondary">boton</button> */}
       {/* <Button variant="secondary">Click me</Button> */}
     </div>
