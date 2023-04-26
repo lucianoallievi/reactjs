@@ -7,6 +7,7 @@ const CartWidget = () => {
         {" "}
         <img src={logo} alt="" />
       </a>
+      <span>0</span>
     </div>
   );
 };
