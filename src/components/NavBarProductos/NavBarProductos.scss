@@ -1,0 +1,15 @@
+.navbarproductos__container {
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+.navbarproductos__link {
+  font-weight: 700;
+  font-size: 16px;
+  color: #f4d35e;
+  text-transform: uppercase;
+  margin: 0;
+}

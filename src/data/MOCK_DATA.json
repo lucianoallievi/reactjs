@@ -1,0 +1,218 @@
+[
+  {
+    "id": 1,
+    "nombre": "Televisor Smart TV 4K 55 pulgadas",
+    "descripcion": "Disfrutá de tus películas y series favoritas con la mejor calidad de imagen gracias a este televisor Smart TV 4K de 55 pulgadas.",
+    "precio": 75000,
+    "img": "https://dummyimage.com/200x200/000/fff",
+    "stock": 50,
+    "category": "electronica"
+  },
+  {
+    "id": 2,
+    "nombre": "Juego de vajilla para 6 personas",
+    "descripcion": "Este juego de vajilla es ideal para tus cenas con amigos y familiares. Incluye platos, vasos, cubiertos y mucho más para que no te falte nada.",
+    "precio": 12500,
+    "img": "https://dummyimage.com/200x200/000/fff",
+    "stock": 20,
+    "category": "hogar"
+  },
+  {
+    "id": 3,
+    "nombre": "Camisa de algodón para hombre",
+    "descripcion": "Esta camisa de algodón es perfecta para cualquier ocasión. Su diseño elegante y moderno te hará lucir bien en cualquier evento.",
+    "precio": 4000,
+    "img": "https://dummyimage.com/200x200/000/fff",
+    "stock": 100,
+    "category": "ropa"
+  },
+  {
+    "id": 4,
+    "nombre": "Cámara réflex digital",
+    "descripcion": "Capturá los momentos más especiales de tu vida con esta cámara réflex digital de alta calidad.",
+    "precio": 58000,
+    "img": "https://dummyimage.com/200x200/000/fff",
+    "stock": 10,
+    "category": "electronica"
+  },
+  {
+    "id": 5,
+    "nombre": "Juego de sábanas de algodón",
+    "descripcion": "Dormí cómodamente con este juego de sábanas de algodón suave y resistente.",
+    "precio": 8000,
+    "img": "https://dummyimage.com/200x200/000/fff",
+    "stock": 30,
+    "category": "hogar"
+  },
+  {
+    "id": 6,
+    "nombre": "Reloj inteligente",
+    "descripcion": "Controlá tus notificaciones y monitoreá tu actividad física con este reloj inteligente de última generación.",
+    "precio": 23000,
+    "img": "https://dummyimage.com/200x200/000/fff",
+    "stock": 15,
+    "category": "electronica"
+  },
+  {
+    "id": 7,
+    "nombre": "Juego de toallas de baño",
+    "descripcion": "Secate con estas toallas de baño suaves y absorbentes, ideales para tu hogar.",
+    "precio": 6500,
+    "img": "https://dummyimage.com/200x200/000/fff",
+    "stock": 40,
+    "category": "hogar"
+  },
+  {
+    "id": 8,
+    "nombre": "Botines de cuero para mujer",
+    "descripcion": "Estos botines de cuero para mujer son ideales para cualquier ocasión. Su diseño elegante y moderno te hará lucir bien en cualquier evento.",
+    "precio": 12000,
+    "img": "https://dummyimage.com/200x200/000/fff",
+    "stock": 25,
+    "category": "ropa"
+  },
+  {
+    "id": 9,
+    "nombre": "Set de herramientas para bricolaje",
+    "descripcion": "Este set de herramientas es ideal para tus proyectos de bricolaje en casa. Incluye todo lo necesario para reparaciones y mantenimiento.",
+    "precio": 15000,
+    "img": "https://dummyimage.com/200x200/000/fff",
+    "stock": 5,
+    "category": "herramientas"
+  },
+  {
+    "id": 10,
+    "nombre": "Auriculares inalámbricos",
+    "descripcion": "Escuchá tu música favorita sin cables con estos auriculares inalámbricos de alta calidad.",
+    "precio": 9000,
+    "img": "https://dummyimage.com/200x200/000/fff",
+    "stock": 30,
+    "category": "electronica"
+  },
+  {
+    "id": 11,
+    "nombre": "Mesa de madera maciza",
+    "descripcion": "Esta mesa de madera maciza es perfecta para tus cenas en familia. Su diseño rústico le dará un toque especial a tu hogar.",
+    "precio": 38000,
+    "img": "https://dummyimage.com/200x200/000/fff",
+    "stock": 3,
+    "category": "muebles"
+  },
+  {
+    "id": 12,
+    "nombre": "Bicicleta de montaña",
+    "descripcion": "Salí a disfrutar de la naturaleza con esta bicicleta de montaña de alta calidad.",
+    "precio": 72000,
+    "img": "https://dummyimage.com/200x200/000/fff",
+    "stock": 8,
+    "category": "deportes"
+  },
+  {
+    "id": 13,
+    "nombre": "Cámara de fotos profesional",
+    "descripcion": "Capturá tus mejores momentos con esta cámara de fotos profesional de alta calidad.",
+    "precio": 92000,
+    "img": "https://dummyimage.com/200x200/000/fff",
+    "stock": 2,
+    "category": "electronica"
+  },
+  {
+    "id": 14,
+    "nombre": "Colchón de espuma de memoria",
+    "descripcion": "Este colchón de espuma de memoria es ideal para un descanso reparador. Su diseño ergonómico se adapta a tu cuerpo para ofrecerte el máximo confort.",
+    "precio": 54000,
+    "img": "https://dummyimage.com/200x200/000/fff",
+    "stock": 10,
+    "category": "hogar"
+  },
+  {
+    "id": 15,
+    "nombre": "Zapatillas deportivas",
+    "descripcion": "Estas zapatillas deportivas de alta calidad son ideales para tus entrenamientos. Su diseño moderno y ergonómico te ayudará a mejorar tu rendimiento.",
+    "precio": 15000,
+    "img": "https://dummyimage.com/200x200/000/fff",
+    "stock": 20,
+    "category": "deportes"
+  },
+  {
+    "id": 16,
+    "nombre": "Set de cocina antiadherente",
+    "descripcion": "Este set de cocina antiadherente es ideal para preparar tus comidas favoritas sin preocuparte por que se peguen en la sartén.",
+    "precio": 29000,
+    "img": "https://dummyimage.com/200x200/000/fff",
+    "stock": 5,
+    "category": "hogar"
+  },
+  {
+    "id": 17,
+    "nombre": "Sofá de cuero",
+    "descripcion": "Este sofá de cuero de alta calidad es perfecto para tus momentos de relax en casa. Su diseño moderno y elegante le dará un toque especial a tu hogar.",
+    "precio": 138000,
+    "img": "https://dummyimage.com/200x200/000/fff",
+    "stock": 2,
+    "category": "muebles"
+  },
+  {
+    "id": 18,
+    "nombre": "Smartwatch de alta gama",
+    "descripcion": "Este smartwatch de alta gama te permitirá estar siempre conectado y al tanto de tus actividades diarias.",
+    "precio": 68000,
+    "img": "https://dummyimage.com/200x200/000/fff",
+    "stock": 3,
+    "category": "electronica"
+  },
+  {
+    "id": 19,
+    "nombre": "Mochila de trekking",
+    "descripcion": "Esta mochila de trekking es ideal para tus aventuras al aire libre. Cuenta con múltiples compartimentos y un diseño ergonómico para que puedas llevar todo lo que necesites con comodidad.",
+    "precio": 34000,
+    "img": "https://dummyimage.com/200x200/000/fff",
+    "stock": 10,
+    "category": "deportes"
+  },
+  {
+    "id": 20,
+    "nombre": "Lámpara de techo moderna",
+    "descripcion": "Esta lámpara de techo moderna le dará un toque de elegancia a tu hogar. Su diseño minimalista es perfecto para cualquier tipo de ambiente.",
+    "precio": 69000,
+    "img": "https://dummyimage.com/200x200/000/fff",
+    "stock": 4,
+    "category": "hogar"
+  },
+  {
+    "id": 21,
+    "nombre": "Guitarra eléctrica de alta gama",
+    "descripcion": "Esta guitarra eléctrica de alta gama es perfecta para músicos profesionales y aficionados. Su sonido y diseño son de la más alta calidad.",
+    "precio": 128000,
+    "img": "https://dummyimage.com/200x200/000/fff",
+    "stock": 1,
+    "category": "instrumentos"
+  },
+  {
+    "id": 22,
+    "nombre": "Bicicleta de montaña",
+    "descripcion": "Esta bicicleta de montaña es perfecta para tus aventuras en la naturaleza. Su diseño robusto y resistente te permitirá explorar cualquier terreno con facilidad.",
+    "precio": 65000,
+    "img": "https://dummyimage.com/200x200/000/fff",
+    "stock": 6,
+    "category": "deportes"
+  },
+  {
+    "id": 23,
+    "nombre": "Cafetera expresso automática",
+    "descripcion": "Esta cafetera expresso automática te permitirá disfrutar de un café de alta calidad en la comodidad de tu hogar. Su diseño moderno y elegante le dará un toque especial a tu cocina.",
+    "precio": 87000,
+    "img": "https://dummyimage.com/200x200/000/fff",
+    "stock": 2,
+    "category": "hogar"
+  },
+  {
+    "id": 24,
+    "nombre": "Aspiradora robot",
+    "descripcion": "Esta aspiradora robot te permitirá mantener tu hogar limpio sin esfuerzo. Su diseño inteligente le permite mapear tu casa y limpiar de forma autónoma.",
+    "precio": 98000,
+    "img": "https://dummyimage.com/200x200/000/fff",
+    "stock": 4,
+    "category": "hogar"
+  }
+]

@@ -1,20 +1,24 @@
 import "./NavBar.scss";
 import CartWidget from "../CarWidget/CarWidget";
+import { Link } from "react-router-dom";
+
 export const Navbar = () => {
   return (
     <header className="header">
       <div className="header__container">
-        <h1 className="logo">LOPEZ S.A.</h1>
+        <Link to="/">
+          <h1 className="logo">Mercatus</h1>
+        </Link>
         <nav className="navbar">
-          <a href="">
+          <Link to="/productos">
             <p className="navbar__link">productos</p>
-          </a>
-          <a href="">
+          </Link>
+          <Link to="/nosotros">
             <p className="navbar__link">nosotros</p>
-          </a>
-          <a href="">
+          </Link>
+          <Link to="/contacto">
             <p className="navbar__link">contacto</p>
-          </a>
+          </Link>
         </nav>
         <CartWidget />
       </div>
