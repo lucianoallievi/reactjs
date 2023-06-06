@@ -2,6 +2,7 @@ import { useState, useContext } from "react";
 import { Link } from "react-router-dom";
 import ItemCount from "../ItemCount/ItemCount";
 import { CartContext } from "../../context/CartContext";
+import { pesos } from "../../helpers/locale";
 
 const ItemDetail = ({ item }) => {
   const { addToCart, isInCart } = useContext(CartContext);
@@ -28,7 +29,7 @@ const ItemDetail = ({ item }) => {
       <p>{item.descripcion}</p>
       <p>Categoria {item.category}</p>
       <p>
-        <strong>Precio: ${item.precio}</strong>
+        <strong>Precio: {pesos(item.precio)}</strong>
       </p>
 
       {isInCart(item.id) ? (

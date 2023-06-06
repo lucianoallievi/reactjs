@@ -1,4 +1,5 @@
 import { Link } from "react-router-dom";
+import { pesos } from "../../helpers/locale";
 
 const ItemCard = ({ item }) => {
   return (
@@ -8,7 +9,7 @@ const ItemCard = ({ item }) => {
       {/* <p>{item.descripcion}</p> */}
       <p>Categoria {item.category}</p>
       <p>
-        <strong>Precio: ${item.precio}</strong>
+        <strong>Precio: {pesos(item.precio)}</strong>
       </p>
       <Link to={`/detail/${item.id}`} className="btn btn-primary">
         Ver más
