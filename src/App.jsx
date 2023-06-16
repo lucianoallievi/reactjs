@@ -8,7 +8,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import { Bienvenidos } from "./components/Bienvenidos/Bienvenidos";
 import { Contacto } from "./components/Contacto/Contacto";
 import { Carrito } from "./components/Carrito/Carrito";
-import { Checkout } from "./components/Checkout/Checkout";
+import Checkout from "./components/Checkout/Checkout";
 import { Error404 } from "./components/Error404/Error404";
 import ItemDetailContainer from "./components/ItemDetailContainer/ItemDetailContainer";
 import { CartProvider } from "./context/CartContext";
