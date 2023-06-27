@@ -4,7 +4,7 @@
     "nombre": "Televisor Smart TV 4K 55 pulgadas",
     "descripcion": "Disfrutá de tus películas y series favoritas con la mejor calidad de imagen gracias a este televisor Smart TV 4K de 55 pulgadas.",
     "precio": 75000,
-    "img": "https://dummyimage.com/200x200/000/fff",
+    "img": "https://firebasestorage.googleapis.com/v0/b/ecommerce-573e8.appspot.com/o/tv55.jpg?alt=media&token=d038dd04-097e-4cbc-9256-6c5eb7bd72ee",
     "stock": 50,
     "category": "electronica"
   },
@@ -13,7 +13,7 @@
     "nombre": "Juego de vajilla para 6 personas",
     "descripcion": "Este juego de vajilla es ideal para tus cenas con amigos y familiares. Incluye platos, vasos, cubiertos y mucho más para que no te falte nada.",
     "precio": 12500,
-    "img": "https://dummyimage.com/200x200/000/fff",
+    "img": "https://firebasestorage.googleapis.com/v0/b/ecommerce-573e8.appspot.com/o/vajilla6.jpg?alt=media&token=a95559b8-8e00-4152-9aa8-27eb0b8c8b5e",
     "stock": 20,
     "category": "hogar"
   },
@@ -22,7 +22,7 @@
     "nombre": "Camisa de algodón para hombre",
     "descripcion": "Esta camisa de algodón es perfecta para cualquier ocasión. Su diseño elegante y moderno te hará lucir bien en cualquier evento.",
     "precio": 4000,
-    "img": "https://dummyimage.com/200x200/000/fff",
+    "img": "https://firebasestorage.googleapis.com/v0/b/ecommerce-573e8.appspot.com/o/camisa.jpg?alt=media&token=6fb16997-a52d-4c01-a531-f2f587e30ef2",
     "stock": 100,
     "category": "ropa"
   },
@@ -30,8 +30,8 @@
     "id": 4,
     "nombre": "Cámara réflex digital",
     "descripcion": "Capturá los momentos más especiales de tu vida con esta cámara réflex digital de alta calidad.",
-    "precio": 58000,
-    "img": "https://dummyimage.com/200x200/000/fff",
+    "precio": 358000,
+    "img": "https://firebasestorage.googleapis.com/v0/b/ecommerce-573e8.appspot.com/o/camara.jpg?alt=media&token=d2b03106-236b-437d-9dd7-0a8d429ebf21",
     "stock": 10,
     "category": "electronica"
   },
@@ -40,7 +40,7 @@
     "nombre": "Juego de sábanas de algodón",
     "descripcion": "Dormí cómodamente con este juego de sábanas de algodón suave y resistente.",
     "precio": 8000,
-    "img": "https://dummyimage.com/200x200/000/fff",
+    "img": "https://firebasestorage.googleapis.com/v0/b/ecommerce-573e8.appspot.com/o/sabanas.jpg?alt=media&token=a0562ec6-836e-4f34-8e09-8b9f0bab0922",
     "stock": 30,
     "category": "hogar"
   },
@@ -49,7 +49,7 @@
     "nombre": "Reloj inteligente",
     "descripcion": "Controlá tus notificaciones y monitoreá tu actividad física con este reloj inteligente de última generación.",
     "precio": 23000,
-    "img": "https://dummyimage.com/200x200/000/fff",
+    "img": "https://firebasestorage.googleapis.com/v0/b/ecommerce-573e8.appspot.com/o/reloj.jpg?alt=media&token=7e57081d-857f-4b3a-a05c-16a504d335a7",
     "stock": 15,
     "category": "electronica"
   },
@@ -58,16 +58,16 @@
     "nombre": "Juego de toallas de baño",
     "descripcion": "Secate con estas toallas de baño suaves y absorbentes, ideales para tu hogar.",
     "precio": 6500,
-    "img": "https://dummyimage.com/200x200/000/fff",
+    "img": "https://firebasestorage.googleapis.com/v0/b/ecommerce-573e8.appspot.com/o/toallas.jpg?alt=media&token=f239e70a-4510-45d6-a479-00433590825b",
     "stock": 40,
     "category": "hogar"
   },
   {
     "id": 8,
-    "nombre": "Botines de cuero para mujer",
-    "descripcion": "Estos botines de cuero para mujer son ideales para cualquier ocasión. Su diseño elegante y moderno te hará lucir bien en cualquier evento.",
+    "nombre": "Botas de cuero para mujer",
+    "descripcion": "Estas botas de cuero para mujer son ideales para cualquier ocasión. Su diseño elegante y moderno te hará lucir bien en cualquier evento.",
     "precio": 12000,
-    "img": "https://dummyimage.com/200x200/000/fff",
+    "img": "https://firebasestorage.googleapis.com/v0/b/ecommerce-573e8.appspot.com/o/botas.jpg?alt=media&token=2271ac26-283f-47d9-bb90-02bd348d0937",
     "stock": 25,
     "category": "ropa"
   },
@@ -76,7 +76,7 @@
     "nombre": "Set de herramientas para bricolaje",
     "descripcion": "Este set de herramientas es ideal para tus proyectos de bricolaje en casa. Incluye todo lo necesario para reparaciones y mantenimiento.",
     "precio": 15000,
-    "img": "https://dummyimage.com/200x200/000/fff",
+    "img": "https://firebasestorage.googleapis.com/v0/b/ecommerce-573e8.appspot.com/o/bricolage.jpg?alt=media&token=134b87f4-1e06-46d9-8c9c-34cc3ff92d59",
     "stock": 5,
     "category": "herramientas"
   },
@@ -85,7 +85,7 @@
     "nombre": "Auriculares inalámbricos",
     "descripcion": "Escuchá tu música favorita sin cables con estos auriculares inalámbricos de alta calidad.",
     "precio": 9000,
-    "img": "https://dummyimage.com/200x200/000/fff",
+    "img": "https://firebasestorage.googleapis.com/v0/b/ecommerce-573e8.appspot.com/o/mesa.jpg?alt=media&token=aef540fa-31e3-4356-80b4-e088e80cd1a0",
     "stock": 30,
     "category": "electronica"
   },
@@ -94,7 +94,7 @@
     "nombre": "Mesa de madera maciza",
     "descripcion": "Esta mesa de madera maciza es perfecta para tus cenas en familia. Su diseño rústico le dará un toque especial a tu hogar.",
     "precio": 38000,
-    "img": "https://dummyimage.com/200x200/000/fff",
+    "img": "https://firebasestorage.googleapis.com/v0/b/ecommerce-573e8.appspot.com/o/mesa.jpg?alt=media&token=aef540fa-31e3-4356-80b4-e088e80cd1a0",
     "stock": 3,
     "category": "muebles"
   },
@@ -103,7 +103,7 @@
     "nombre": "Bicicleta de montaña",
     "descripcion": "Salí a disfrutar de la naturaleza con esta bicicleta de montaña de alta calidad.",
     "precio": 72000,
-    "img": "https://dummyimage.com/200x200/000/fff",
+    "img": "https://firebasestorage.googleapis.com/v0/b/ecommerce-573e8.appspot.com/o/bicicleta.jpg?alt=media&token=4fbcbb8d-a640-4ac1-9629-6fb85abc8d71",
     "stock": 8,
     "category": "deportes"
   },
@@ -112,7 +112,7 @@
     "nombre": "Cámara de fotos profesional",
     "descripcion": "Capturá tus mejores momentos con esta cámara de fotos profesional de alta calidad.",
     "precio": 92000,
-    "img": "https://dummyimage.com/200x200/000/fff",
+    "img": "https://firebasestorage.googleapis.com/v0/b/ecommerce-573e8.appspot.com/o/camara2.jpg?alt=media&token=33d2ba5c-defc-4e8d-8fa0-4a446cd20782",
     "stock": 2,
     "category": "electronica"
   },
@@ -121,7 +121,7 @@
     "nombre": "Colchón de espuma de memoria",
     "descripcion": "Este colchón de espuma de memoria es ideal para un descanso reparador. Su diseño ergonómico se adapta a tu cuerpo para ofrecerte el máximo confort.",
     "precio": 54000,
-    "img": "https://dummyimage.com/200x200/000/fff",
+    "img": "https://firebasestorage.googleapis.com/v0/b/ecommerce-573e8.appspot.com/o/colchon.jpg?alt=media&token=ddd79316-5af0-4b76-9d6b-f9984f508fd7",
     "stock": 10,
     "category": "hogar"
   },
@@ -130,7 +130,7 @@
     "nombre": "Zapatillas deportivas",
     "descripcion": "Estas zapatillas deportivas de alta calidad son ideales para tus entrenamientos. Su diseño moderno y ergonómico te ayudará a mejorar tu rendimiento.",
     "precio": 15000,
-    "img": "https://dummyimage.com/200x200/000/fff",
+    "img": "https://firebasestorage.googleapis.com/v0/b/ecommerce-573e8.appspot.com/o/zapatillas.jpg?alt=media&token=544b9b5f-87d0-4b99-9522-268000d51c81",
     "stock": 20,
     "category": "deportes"
   },
@@ -139,7 +139,7 @@
     "nombre": "Set de cocina antiadherente",
     "descripcion": "Este set de cocina antiadherente es ideal para preparar tus comidas favoritas sin preocuparte por que se peguen en la sartén.",
     "precio": 29000,
-    "img": "https://dummyimage.com/200x200/000/fff",
+    "img": "https://firebasestorage.googleapis.com/v0/b/ecommerce-573e8.appspot.com/o/setCocina.jpg?alt=media&token=07d38b07-dafc-4084-a5b5-51af9c11943e",
     "stock": 5,
     "category": "hogar"
   },
@@ -148,7 +148,7 @@
     "nombre": "Sofá de cuero",
     "descripcion": "Este sofá de cuero de alta calidad es perfecto para tus momentos de relax en casa. Su diseño moderno y elegante le dará un toque especial a tu hogar.",
     "precio": 138000,
-    "img": "https://dummyimage.com/200x200/000/fff",
+    "img": "https://firebasestorage.googleapis.com/v0/b/ecommerce-573e8.appspot.com/o/sofa.jpg?alt=media&token=434acca0-75a7-4cbd-9c26-cfb8aa1e197b",
     "stock": 2,
     "category": "muebles"
   },
@@ -157,7 +157,7 @@
     "nombre": "Smartwatch de alta gama",
     "descripcion": "Este smartwatch de alta gama te permitirá estar siempre conectado y al tanto de tus actividades diarias.",
     "precio": 68000,
-    "img": "https://dummyimage.com/200x200/000/fff",
+    "img": "https://firebasestorage.googleapis.com/v0/b/ecommerce-573e8.appspot.com/o/reloj2.jpg?alt=media&token=5a8cc883-7795-4455-8c8d-41ccb3670985",
     "stock": 3,
     "category": "electronica"
   },
@@ -166,7 +166,7 @@
     "nombre": "Mochila de trekking",
     "descripcion": "Esta mochila de trekking es ideal para tus aventuras al aire libre. Cuenta con múltiples compartimentos y un diseño ergonómico para que puedas llevar todo lo que necesites con comodidad.",
     "precio": 34000,
-    "img": "https://dummyimage.com/200x200/000/fff",
+    "img": "https://firebasestorage.googleapis.com/v0/b/ecommerce-573e8.appspot.com/o/mochila.jpg?alt=media&token=19a2ffac-65cf-4393-b265-5c8ec906de34",
     "stock": 10,
     "category": "deportes"
   },
@@ -175,7 +175,7 @@
     "nombre": "Lámpara de techo moderna",
     "descripcion": "Esta lámpara de techo moderna le dará un toque de elegancia a tu hogar. Su diseño minimalista es perfecto para cualquier tipo de ambiente.",
     "precio": 69000,
-    "img": "https://dummyimage.com/200x200/000/fff",
+    "img": "https://firebasestorage.googleapis.com/v0/b/ecommerce-573e8.appspot.com/o/lampara.jpg?alt=media&token=bc976e03-b20d-4597-a656-daf367b282df",
     "stock": 4,
     "category": "hogar"
   },
@@ -184,7 +184,7 @@
     "nombre": "Guitarra eléctrica de alta gama",
     "descripcion": "Esta guitarra eléctrica de alta gama es perfecta para músicos profesionales y aficionados. Su sonido y diseño son de la más alta calidad.",
     "precio": 128000,
-    "img": "https://dummyimage.com/200x200/000/fff",
+    "img": "https://firebasestorage.googleapis.com/v0/b/ecommerce-573e8.appspot.com/o/guitarra.jpg?alt=media&token=92a8998c-7abd-4c96-a8e9-ce61a4b2dea3",
     "stock": 1,
     "category": "instrumentos"
   },
@@ -193,7 +193,7 @@
     "nombre": "Bicicleta de montaña",
     "descripcion": "Esta bicicleta de montaña es perfecta para tus aventuras en la naturaleza. Su diseño robusto y resistente te permitirá explorar cualquier terreno con facilidad.",
     "precio": 65000,
-    "img": "https://dummyimage.com/200x200/000/fff",
+    "img": "https://firebasestorage.googleapis.com/v0/b/ecommerce-573e8.appspot.com/o/bicicleta2.jpg?alt=media&token=0b041635-267d-4590-ac21-054554d90b07",
     "stock": 6,
     "category": "deportes"
   },
@@ -202,7 +202,7 @@
     "nombre": "Cafetera expresso automática",
     "descripcion": "Esta cafetera expresso automática te permitirá disfrutar de un café de alta calidad en la comodidad de tu hogar. Su diseño moderno y elegante le dará un toque especial a tu cocina.",
     "precio": 87000,
-    "img": "https://dummyimage.com/200x200/000/fff",
+    "img": "https://firebasestorage.googleapis.com/v0/b/ecommerce-573e8.appspot.com/o/cafetera.jpg?alt=media&token=4a6f5745-7ca5-4e2d-b2a3-03cd9e77c3ff",
     "stock": 2,
     "category": "hogar"
   },
@@ -211,7 +211,7 @@
     "nombre": "Aspiradora robot",
     "descripcion": "Esta aspiradora robot te permitirá mantener tu hogar limpio sin esfuerzo. Su diseño inteligente le permite mapear tu casa y limpiar de forma autónoma.",
     "precio": 98000,
-    "img": "https://dummyimage.com/200x200/000/fff",
+    "img": "https://firebasestorage.googleapis.com/v0/b/ecommerce-573e8.appspot.com/o/aspiradora.jpg?alt=media&token=fd9fbcdf-2fd1-4852-92d4-1dece75707dc",
     "stock": 4,
     "category": "hogar"
   }
