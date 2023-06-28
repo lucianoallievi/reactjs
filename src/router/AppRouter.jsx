@@ -2,7 +2,7 @@ import { BrowserRouter, Route, Routes, Navigate } from "react-router-dom";
 import { Nosotros } from "../components/Nosotros/Nosotros";
 import { ItemListContainer } from "../components/ItemListContainer/ItemListContainer";
 import { Navbar } from "../components/NavBar/Navbar";
-import { NavBarProductos } from "../components/NavBarProductos/NavbarProductos";
+import { NavBarProductos } from "../components/NavBarProductos/NavBarProductos";
 import { Bienvenidos } from "../components/Bienvenidos/Bienvenidos";
 import { Contacto } from "../components/Contacto/Contacto";
 import { Carrito } from "../components/Carrito/Carrito";
