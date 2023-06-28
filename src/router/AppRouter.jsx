@@ -14,6 +14,7 @@ import RegisterScreen from "../components/RegisterScreen/RegisterScreen";
 import { useContext } from "react";
 import { AuthContext } from "../context/AuthContext";
 
+
 // import { Button } from "react-bootstrap";
 
 const AppRouter = () => {

@@ -27,23 +27,15 @@ const Checkout = () => {
 
   const { user } = useContext(AuthContext);
 
-  const [values, setValues] = useState({
-    nombre: "",
-    direccion: "",
-    telefono: "",
-  });
-
   const [orderId, setOrderId] = useState(null);
 
-  const handleSubmit = (e) => {
-    e.preventDefault();
+  // const [values, setValues] = useState({
+  //   nombre: "",
+  //   direccion: "",
+  //   telefono: "",
+  // });
 
-    // setValues({
-    //   nombre: e.nombre,
-    //   direccion: e.direccion,
-    //   telefono: e.telefono,
-    // });
-
+  const generarOrden = (values) => {
     console.log(values);
 
     const order = {
@@ -65,7 +57,7 @@ const Checkout = () => {
 
     console.log(order);
 
-    setValues({ ...e, [e.target.name]: e.target.value });
+    // setValues({ ...e, [e.target.name]: e.target.value });
     // console.log(values);
   };
 
@@ -99,9 +91,10 @@ const Checkout = () => {
           telefono: "",
         }}
         validationSchema={schema}
+        onSubmit={generarOrden}
       >
         {() => (
-          <Form onSubmit={handleSubmit}>
+          <Form>
             <Field
               name="nombre"
               type="text"

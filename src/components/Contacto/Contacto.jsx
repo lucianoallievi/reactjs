@@ -1,9 +1,17 @@
-import { useState } from "react";
+import { useState, useContext } from "react";
+import { collection, addDoc } from "firebase/firestore";
+import { db } from "../../firebase/config";
+import { AuthContext } from "../../context/AuthContext";
+import { Navigate } from "react-router-dom";
 
 export const Contacto = () => {
+  const { user } = useContext(AuthContext);
+
+  const [mensajeEnviado, setMensajeEnviado] = useState(false);
+
   const [values, setValues] = useState({
     nombre: "",
-    email: "",
+    email: user.email,
     mensaje: "",
   });
 
@@ -28,9 +36,21 @@ export const Contacto = () => {
     // formData.append("date", now);
 
     // console.log(formData);
-    alert("Su mensaje ha sido recibido.");
+
+    const messageRef = collection(db, "messages");
+
+    addDoc(messageRef, values)
+      .then((doc) => {
+        console.log(doc.id);
+      })
+      .catch((e) => console.log(e));
+    alert("Su mensaje ha sido recibido. Muchas gracias");
+    setMensajeEnviado(true);
   };
 
+  if (mensajeEnviado) {
+    return <Navigate to="/" />;
+  }
   return (
     <div className="container my-5">
       <h2>Contáctenos</h2>
@@ -41,7 +61,7 @@ export const Contacto = () => {
           onChange={handleInputChange}
           className="form-control my-2"
           type="text"
-          placeholder="nombre"
+          placeholder="Ingrese su nombre"
           name="nombre"
         />
         <input
@@ -50,7 +70,8 @@ export const Contacto = () => {
           type="email"
           className="form-control my-2"
           name="email"
-          placeholder="email"
+          placeholder={user.email}
+          readOnly="true"
         />
         <input
           value={values.mensaje}

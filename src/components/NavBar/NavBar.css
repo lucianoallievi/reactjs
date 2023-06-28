@@ -30,4 +30,8 @@
   font-size: 18px;
   color: #f4d35e;
   text-transform: uppercase;
-}/*# sourceMappingURL=NavBar.css.map */
+} /*# sourceMappingURL=NavBar.css.map */
+
+.navbar p {
+  color: #f4d35e;
+}
